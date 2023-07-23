@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CraddleCare Contact Us</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./css/cstyle.css">
+</head>
+<style>
+
+
+form input{
+        margin-top: 50px;
+		border-radius: 20px;
+		height: 40px;
+		border:2px solid black
+		
+    }
+    
+    label {
+        font-weight: bold;
+    }
+    
+    textarea {
+        height: 150px;
+		width: 500px;
+		outline: navy;
+		margin-top: 30px;
+    }
+    
+    button[type="submit"] {
+        margin-top: 20px;
+    }
+	input{
+		width: 500px;
+		line-height: 20px;
+		line-break: loose;
+
+	}
+	button{
+		background-color: white;
+		border-radius: 10px;
+		width: 89px;
+		height: 40px;
+		
+		
+	}
+	.form-group{
+		display: inline-block;
+		border-radius: 20px;
+	}
+    
+    @media screen and (max-width: 768px){} 
+
+.container{
+    top: 50px;
+    background-color: blue;
+}
+.word{
+    text-align: center;
+}
+.little{
+    text-align: center;
+    font-size: 16px;
+}
+
+</style>
+<body>
+
+	<div class="container">
+		<h2 class="word">CraddleCare Contact Us</h2>
+		<p class="little">Please fill in this form to contact us.</p>
+		<form action="" method="POST">
+			<div class="form-group">
+				<label for="name">Name:</label>
+				<input type="text" class="form-control" id="name" placeholder="Enter your name" name="name" required>
+			</div>
+			<div class="form-group">
+				<label for="email">Email:</label>
+				<input type="email" class="form-control" id="email" placeholder="Enter your email" name="email" required @gmail.com>
+			</div>
+			<div class="form">
+				<label for="message">Message:</label>
+				<textarea class="form-control" id="message" name="message" placeholder="Enter your message" required></textarea>
+			</div>
+			<button type="submit" name="submit" class="btn btn-primary">Submit</button>
+		</form>
+	</div>
+
+</body>
+</html>

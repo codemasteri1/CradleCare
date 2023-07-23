@@ -1,0 +1,290 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main-wrapper {
+    padding: 20px;
+}
+
+/* Header styles (if you have a header included) */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Dashboard card styles */
+.dash-widget {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+.dash-widget-bg2 {
+    background-color: #f4a460;
+}
+
+.dash-widget-bg3 {
+    background-color: #87cefa;
+}
+
+.dash-widget-bg4 {
+    background-color: #8fbc8f;
+}
+
+/* Table styles */
+.table {
+    width: 100%;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* Avatar styles */
+.avatar {
+    background-color: #999;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+}
+
+/* Card styles */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.card-header {
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.card-title {
+    margin-bottom: 0;
+}
+
+.card-block {
+    padding: 0;
+}
+
+/* Button styles */
+.btn {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-success {
+    background-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #1a832e;
+}
+
+/* Avatar styles */
+.avatar {
+    background-color: #999;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+}
+
+/* Table styles */
+.table {
+    width: 100%;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* General text styles */
+h2 {
+    margin-top: 0;
+}
+
+h4 {
+    margin-bottom: 15px;
+}
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main-wrapper {
+    padding: 20px;
+}
+
+/* Header styles (if you have a header included) */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Dashboard card styles */
+.dash-widget {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+.dash-widget-bg2 {
+    background-color: #f4a460;
+}
+
+.dash-widget-bg3 {
+    background-color: #87cefa;
+}
+
+.dash-widget-bg4 {
+    background-color: #8fbc8f;
+}
+
+/* Table styles */
+.table {
+    width: 100%;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* Avatar styles */
+.avatar {
+    background-color: #999;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+}
+
+/* Card styles */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.card-header {
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.card-title {
+    margin-bottom: 0;
+}
+
+.card-block {
+    padding: 0;
+}
+
+/* Button styles */
+.btn {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-success {
+    background-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #1a832e;
+}
+
+/* Avatar styles */
+.avatar {
+    background-color: #999;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px;
+}
+
+/* Table styles */
+.table {
+    width: 100%;
+}
+
+.table th,
+.table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+/* General text styles */
+h2 {
+    margin-top: 0;
+}
+
+h4 {
+    margin-bottom: 15px;
+}
