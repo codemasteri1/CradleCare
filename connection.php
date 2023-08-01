@@ -1,6 +1,6 @@
 <?php
 // Establish the database connection
-$connection = mysqli_connect('localhost', 'root', '','hos');
+$connection = mysqli_connect('sql9.freemysqlhosting.net', 'sql9635', '','hos');
 $connect = $connection;
 // Check if the connection was successful
 if (!$connect) {
@@ -13,7 +13,7 @@ if (!$connect) {
 
 // if (mysqli_multi_query($connection, $sql)) {
 //     echo 'SQL file imported successfully.';
-// } else {
+// } el
 //     echo 'Error importing SQL file: ' . mysqli_error($connection);
 // }
 ?>
